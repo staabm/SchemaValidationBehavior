@@ -2,7 +2,7 @@
 
 /**
  * Automatically generates validators to enforce the actual db-schema on ORM side,
- * instead of disturbing the DB with content which is not valid as far as the schema rules are conerned. 
+ * instead of disturbing the DB with content which is not valid as far as the schema rules are concerned. 
  *
  * @author     Markus Staab
  * @package    cwsPropel.behaviour
